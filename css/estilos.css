@@ -36,3 +36,10 @@ body{
 #container h1{
     font-size: 20px;
 }
+
+#footer{
+    background: rgb(104, 104, 104);
+    color: aliceblue;
+    text-align: center;
+    padding: 20px;
+}
