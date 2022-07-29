@@ -44,3 +44,9 @@ body{
     vertical-align: middle;
     margin:5px 10px;
 }
+#footer{
+    background: rgb(104, 104, 104);
+    color: aliceblue;
+    text-align: center;
+    padding: 20px;
+}
