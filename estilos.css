@@ -35,7 +35,7 @@ body{
 }
 
 #footer{
-    background-color: rgb(104, 104, 104);
+    background: rgb(104, 104, 104);
     color: aliceblue;
     text-align: center;
     padding: 20px;
